@@ -1,5 +1,6 @@
 
 # Bitcoin Trading Simulator
+-- CS521 Information Structures with Python Final Project
 
 ## Overview
 
