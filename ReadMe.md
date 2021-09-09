@@ -4,7 +4,7 @@
 
 ## Overview
 
-Bitcoin trading simulator is a Python project that simulates Bitcoin trading by implementing two elementary functions on Bitcoin trading: price viewing and simulated trading. It enables users to invest Bitcoin without spending real money.
+Bitcoin trading simulator is a Python application that simulates Bitcoin trading by achieving the following functionalities: view current price, view historical price, and simulated trading. It enables users to invest Bitcoin without spending real money.
 
 ## Solution
 
